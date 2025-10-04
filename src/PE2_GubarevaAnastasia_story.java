@@ -81,6 +81,7 @@ public class PE2_GubarevaAnastasia_story {
                 System.out.println("\nTRAGIC ENDING. You reach a clearing, where a Nazgûl attacks you.");
             }
         }
+        System.out.println("THANK YOU FOR PLAYING!");
         
         reader.close();
     }
