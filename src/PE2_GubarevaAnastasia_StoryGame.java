@@ -5,7 +5,7 @@ public class PE2_GubarevaAnastasia_StoryGame {
         Scanner reader = new Scanner(System.in);
     
         // Declare Variables; The Variables are boolean's becouse they only have 2 answer's (True or False)
-        // Since it's a decision game with multiple option's (2)
+        // Since it's a decision game with multiple options (2)
         boolean pickUpRing;
         boolean rivendell;
         boolean trustElves;
