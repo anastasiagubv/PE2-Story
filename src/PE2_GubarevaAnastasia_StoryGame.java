@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PE2_GubarevaAnastasia_story {
+public class PE2_GubarevaAnastasia_StoryGame {
     public static void main(String[] args) {
         Scanner reader = new Scanner(System.in);
     
